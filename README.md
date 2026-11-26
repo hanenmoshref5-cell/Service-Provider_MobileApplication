@@ -2,6 +2,12 @@
 
 مشروع نهاية دورة الفلاتر بتمكين (Tamkeen Flutter Bootcamp – Graduation Project).
 
+يستخدم هذا التطبيق State Management عبر GetX، وهو مربوط بـ Backend حقيقي مبني بلغة PHP على إطار العمل Laravel.
+
+بعد إنجاز هذا المشروع، حصلت على شهادة توصية من شركة تمكين لتطوير التطبيقات باستخدام Flutter: https://tamkeen-dev.com/website/trainees/hanen-mushre
+
+كما أن هذا المشروع أكسبني خبرة كبيرة، فأصبحت أعرف كل الأساسيات بـ Flutter، وتابعت تطوير نفسي وتعلّمت واستمررت لحالي بعده، فصرت أكثر احترافية ولم تعد خبرتي محصورة بـ Flutter فقط.
+
 A new Flutter project.
 
 ## Getting Started
